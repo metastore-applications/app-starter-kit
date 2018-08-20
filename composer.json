@@ -20,13 +20,13 @@
 	],
 	"support": {
 		"email": "support@metastore.pro",
-		"issues": "https://gitlab.com/metastore/apps/app-starter-kit/issues",
+		"issues": "https://gitlab.com/metastore/applications/app-starter-kit/issues",
 		"forum": "https://webmasters.community",
 		"wiki": "https://webmasters.wiki",
-		"source": "https://gitlab.com/metastore/apps/app-starter-kit"
+		"source": "https://gitlab.com/metastore/applications/app-starter-kit"
 	},
 	"require": {
-		"php": ">=7.2.0",
+		"php": ">=7.2",
 		"metastore/app-kernel": "@dev"
 	},
 	"config": {
